@@ -1,0 +1,18 @@
+.head{
+    background-color: black;
+    box-sizing: 500px;
+
+}
+.h1{
+    font-family: initial;
+    color: white;
+    margin: auto;
+    text-align: center;
+    font-size: 1000%
+    
+}
+.body{
+    background-color: black;
+    box-sizing: 500px;
+    display: flex;
+}
