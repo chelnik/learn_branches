@@ -8,11 +8,10 @@
     color: white;
     margin: auto;
     text-align: center;
-    font-size: 1000%
-    
+    font-size: 1000%;
 }
 .body{
-    background-color: black;
+    background-color: wheat;
     box-sizing: 500px;
     display: flex;
 }
